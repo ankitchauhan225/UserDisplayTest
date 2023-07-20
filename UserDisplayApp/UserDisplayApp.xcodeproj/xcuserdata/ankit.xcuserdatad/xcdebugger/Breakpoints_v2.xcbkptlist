@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27B16BB6-0A0E-4EE2-9AEF-27680CF5CE29"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "908FB106-565E-4D23-988A-DDA7A1BB385A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "191C216E-1D27-4968-A84A-0779ACCF04C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "191C216E-1D27-4968-A84A-0779ACCF04C7 - 20e390acce567bf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;UserDisplayApp.UserData&gt;&gt;, Swift.Optional&lt;UserDisplayApp.AlertMessage&gt;) -&gt; () in UserDisplayApp.LoginViewController.getData() -&gt; ()"
+                  moduleName = "UserDisplayApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/Test/UserDisplayApp/UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "191C216E-1D27-4968-A84A-0779ACCF04C7 - 72b3f59861e3b0e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;UserDisplayApp.UserModel&gt;, Swift.Optional&lt;UserDisplayApp.AlertMessage&gt;) -&gt; () in UserDisplayApp.LoginViewController.getData() -&gt; ()"
+                  moduleName = "UserDisplayApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/Test/UserDisplayApp/UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B22A2472-D295-4A54-99C7-2A81F6B2FBC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Networking/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "call(type:params:handler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74CF2B67-520D-4588-A3D6-2882FB53C4F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74CF2B67-520D-4588-A3D6-2882FB53C4F1 - b9fabd7c406fb86d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;UserDisplayApp.loginToken&gt;, Swift.Optional&lt;UserDisplayApp.AlertMessage&gt;) -&gt; () in UserDisplayApp.LoginViewController.getData() -&gt; ()"
+                  moduleName = "UserDisplayApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/Test/UserDisplayApp/UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "74CF2B67-520D-4588-A3D6-2882FB53C4F1 - 72dedc959c8aebff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserDisplayApp.LoginViewController.getData() -&gt; ()"
+                  moduleName = "UserDisplayApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/Test/UserDisplayApp/UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EA47E29-4FD7-41B6-87BA-DDF77F8B2DB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Authenticate/View/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "BtnRegisterPress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB4F080D-6390-4FA7-9D07-580639B2B73E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Authenticate/ViewModel/AuthenticateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "checkValidation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F466FD38-AB63-4BDB-BA57-ECD626FEE0AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserDisplayApp/Source/Classes/Authenticate/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "BtnLoginPress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
