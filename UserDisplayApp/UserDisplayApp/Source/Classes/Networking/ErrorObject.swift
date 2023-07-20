@@ -7,8 +7,10 @@
 
 import Foundation
 
-class ErrorObject: Codable {
-    let message: String
-    let key: String?
-    let sysMessage: String?
+struct ErrorObject: Codable {
+    let errorBody: String?
+    
+    enum CodingKeys: String, CodingKey {
+        case errorBody = "error"
+    }
 }

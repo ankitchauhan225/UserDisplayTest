@@ -74,8 +74,8 @@ class APIManager: SessionDelegate {
         let decoder = JSONDecoder()
         if let jsonData = data, let error = try? decoder.decode(ErrorObject.self, from: jsonData) {
             let errorAlert = AlertMessage()
-            errorAlert.title = error.key ?? "Error"
-            errorAlert.body = error.message
+            errorAlert.title = error.errorBody ?? ""
+            errorAlert.body = error.errorBody ?? ""
             return errorAlert
         }
         return AlertMessage()
